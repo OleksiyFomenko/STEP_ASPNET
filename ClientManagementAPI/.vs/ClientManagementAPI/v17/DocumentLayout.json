@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|d:\\work\\tmp\\itemsapi\\clientmanagementapi\\clientmanagementapi\\services\\clientsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|solutionrelative:clientmanagementapi\\services\\clientsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|d:\\work\\tmp\\itemsapi\\clientmanagementapi\\clientmanagementapi\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|solutionrelative:clientmanagementapi\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|d:\\work\\tmp\\itemsapi\\clientmanagementapi\\clientmanagementapi\\interfaces\\iclientsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|solutionrelative:clientmanagementapi\\interfaces\\iclientsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|d:\\work\\tmp\\itemsapi\\clientmanagementapi\\clientmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|solutionrelative:clientmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 243,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ClientManagementAPI\\Program.cs",
+              "ToolTip": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\Program.cs",
+              "RelativeToolTip": "ClientManagementAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T17:19:16.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IClientsService.cs",
+              "DocumentMoniker": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\Interfaces\\IClientsService.cs",
+              "RelativeDocumentMoniker": "ClientManagementAPI\\Interfaces\\IClientsService.cs",
+              "ToolTip": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\Interfaces\\IClientsService.cs",
+              "RelativeToolTip": "ClientManagementAPI\\Interfaces\\IClientsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T16:48:21.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientsService.cs",
+              "DocumentMoniker": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\Services\\ClientsService.cs",
+              "RelativeDocumentMoniker": "ClientManagementAPI\\Services\\ClientsService.cs",
+              "ToolTip": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\Services\\ClientsService.cs",
+              "RelativeToolTip": "ClientManagementAPI\\Services\\ClientsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T16:47:59.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "ClientManagementAPI\\Controllers\\ClientsController.cs",
+              "ToolTip": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "ClientManagementAPI\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T16:46:22.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

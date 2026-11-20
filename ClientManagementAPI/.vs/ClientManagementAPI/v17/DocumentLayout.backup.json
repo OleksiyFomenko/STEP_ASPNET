@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|d:\\work\\tmp\\itemsapi\\clientmanagementapi\\clientmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|solutionrelative:clientmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|d:\\work\\tmp\\itemsapi\\clientmanagementapi\\clientmanagementapi\\services\\ordersservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|solutionrelative:clientmanagementapi\\services\\ordersservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|d:\\work\\tmp\\itemsapi\\clientmanagementapi\\clientmanagementapi\\dto\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|solutionrelative:clientmanagementapi\\dto\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|d:\\work\\tmp\\itemsapi\\clientmanagementapi\\clientmanagementapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|solutionrelative:clientmanagementapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|d:\\work\\tmp\\itemsapi\\clientmanagementapi\\clientmanagementapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|solutionrelative:clientmanagementapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|d:\\work\\tmp\\itemsapi\\clientmanagementapi\\clientmanagementapi\\profiles\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|solutionrelative:clientmanagementapi\\profiles\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|d:\\work\\tmp\\itemsapi\\clientmanagementapi\\clientmanagementapi\\dto\\orderdto\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|solutionrelative:clientmanagementapi\\dto\\orderdto\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|d:\\work\\tmp\\itemsapi\\clientmanagementapi\\clientmanagementapi\\interfaces\\iordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|solutionrelative:clientmanagementapi\\interfaces\\iordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|d:\\work\\tmp\\itemsapi\\clientmanagementapi\\clientmanagementapi\\dto\\orderdto\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|solutionrelative:clientmanagementapi\\dto\\orderdto\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ClientManagementAPI\\appsettings.json",
+              "ToolTip": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\appsettings.json",
+              "RelativeToolTip": "ClientManagementAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-20T16:41:57.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\DTO\\PagedResult.cs",
+              "RelativeDocumentMoniker": "ClientManagementAPI\\DTO\\PagedResult.cs",
+              "ToolTip": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\DTO\\PagedResult.cs",
+              "RelativeToolTip": "ClientManagementAPI\\DTO\\PagedResult.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wCAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T16:26:24.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "ClientManagementAPI\\Model\\Product.cs",
+              "ToolTip": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\Model\\Product.cs",
+              "RelativeToolTip": "ClientManagementAPI\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T18:49:12.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "ClientManagementAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "ClientManagementAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA9wCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T18:42:42.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderProfile.cs",
+              "DocumentMoniker": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\Profiles\\OrderProfile.cs",
+              "RelativeDocumentMoniker": "ClientManagementAPI\\Profiles\\OrderProfile.cs",
+              "ToolTip": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\Profiles\\OrderProfile.cs",
+              "RelativeToolTip": "ClientManagementAPI\\Profiles\\OrderProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T18:40:08.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersService .cs",
+              "DocumentMoniker": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\Services\\OrdersService .cs",
+              "RelativeDocumentMoniker": "ClientManagementAPI\\Services\\OrdersService .cs",
+              "ToolTip": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\Services\\OrdersService .cs",
+              "RelativeToolTip": "ClientManagementAPI\\Services\\OrdersService .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T18:34:47.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOrdersService.cs",
+              "DocumentMoniker": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\Interfaces\\IOrdersService.cs",
+              "RelativeDocumentMoniker": "ClientManagementAPI\\Interfaces\\IOrdersService.cs",
+              "ToolTip": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\Interfaces\\IOrdersService.cs",
+              "RelativeToolTip": "ClientManagementAPI\\Interfaces\\IOrdersService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T18:34:05.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderResponseDto.cs",
+              "DocumentMoniker": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\DTO\\OrderDTO\\OrderResponseDto.cs",
+              "RelativeDocumentMoniker": "ClientManagementAPI\\DTO\\OrderDTO\\OrderResponseDto.cs",
+              "ToolTip": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\DTO\\OrderDTO\\OrderResponseDto.cs",
+              "RelativeToolTip": "ClientManagementAPI\\DTO\\OrderDTO\\OrderResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T18:32:36.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderCreateDto.cs",
+              "DocumentMoniker": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\DTO\\OrderDTO\\OrderCreateDto.cs",
+              "RelativeDocumentMoniker": "ClientManagementAPI\\DTO\\OrderDTO\\OrderCreateDto.cs",
+              "ToolTip": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\DTO\\OrderDTO\\OrderCreateDto.cs",
+              "RelativeToolTip": "ClientManagementAPI\\DTO\\OrderDTO\\OrderCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T18:31:16.558Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
