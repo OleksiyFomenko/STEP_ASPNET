@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\ClientManagementAPI.csproj": {}
+    "D:\\Work\\TMP\\ItemsApi\\STEP_ASPNET\\ClientManagementAPI\\ClientManagementAPI\\ClientManagementAPI.csproj": {}
   },
   "projects": {
-    "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\ClientManagementAPI.csproj": {
+    "D:\\Work\\TMP\\ItemsApi\\STEP_ASPNET\\ClientManagementAPI\\ClientManagementAPI\\ClientManagementAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\ClientManagementAPI.csproj",
+        "projectUniqueName": "D:\\Work\\TMP\\ItemsApi\\STEP_ASPNET\\ClientManagementAPI\\ClientManagementAPI\\ClientManagementAPI.csproj",
         "projectName": "ClientManagementAPI",
-        "projectPath": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\ClientManagementAPI.csproj",
+        "projectPath": "D:\\Work\\TMP\\ItemsApi\\STEP_ASPNET\\ClientManagementAPI\\ClientManagementAPI\\ClientManagementAPI.csproj",
         "packagesPath": "C:\\Users\\alera\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\obj\\",
+        "outputPath": "D:\\Work\\TMP\\ItemsApi\\STEP_ASPNET\\ClientManagementAPI\\ClientManagementAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\o.fomenko\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ClientManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|c:\\users\\o.fomenko\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\clientmanagementapi\\clientmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|solutionrelative:clientmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|c:\\users\\o.fomenko\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\clientmanagementapi\\clientmanagementapi\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|solutionrelative:clientmanagementapi\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|c:\\users\\o.fomenko\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\clientmanagementapi\\clientmanagementapi\\validators\\ordercreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|solutionrelative:clientmanagementapi\\validators\\ordercreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|c:\\users\\o.fomenko\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\clientmanagementapi\\clientmanagementapi\\validators\\clientcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|solutionrelative:clientmanagementapi\\validators\\clientcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|c:\\users\\o.fomenko\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\clientmanagementapi\\clientmanagementapi\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|solutionrelative:clientmanagementapi\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|c:\\users\\o.fomenko\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\clientmanagementapi\\clientmanagementapi\\services\\clientsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|solutionrelative:clientmanagementapi\\services\\clientsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|c:\\users\\o.fomenko\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\clientmanagementapi\\clientmanagementapi\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|solutionrelative:clientmanagementapi\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|c:\\users\\o.fomenko\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\clientmanagementapi\\clientmanagementapi\\exceptions\\clientnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC3CFD-AEA5-42A1-89C1-3D7B65BCD2B6}|ClientManagementAPI\\ClientManagementAPI.csproj|solutionrelative:clientmanagementapi\\exceptions\\clientnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\Users\\o.fomenko\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ClientManagementAPI\\ClientManagementAPI\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "ClientManagementAPI\\Controllers\\FilesController.cs",
+              "ToolTip": "C:\\Users\\o.fomenko\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ClientManagementAPI\\ClientManagementAPI\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "ClientManagementAPI\\Controllers\\FilesController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowGMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T18:48:16.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\o.fomenko\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ClientManagementAPI\\ClientManagementAPI\\Validators\\ClientCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "ClientManagementAPI\\Validators\\ClientCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\o.fomenko\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ClientManagementAPI\\ClientManagementAPI\\Validators\\ClientCreateDtoValidator.cs",
+              "RelativeToolTip": "ClientManagementAPI\\Validators\\ClientCreateDtoValidator.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T18:47:37.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\o.fomenko\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ClientManagementAPI\\ClientManagementAPI\\Validators\\OrderCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "ClientManagementAPI\\Validators\\OrderCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\o.fomenko\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ClientManagementAPI\\ClientManagementAPI\\Validators\\OrderCreateDtoValidator.cs",
+              "RelativeToolTip": "ClientManagementAPI\\Validators\\OrderCreateDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T18:47:36.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\o.fomenko\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ClientManagementAPI\\ClientManagementAPI\\Exceptions\\ClientNotFoundException.cs",
+              "RelativeDocumentMoniker": "ClientManagementAPI\\Exceptions\\ClientNotFoundException.cs",
+              "ToolTip": "C:\\Users\\o.fomenko\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ClientManagementAPI\\ClientManagementAPI\\Exceptions\\ClientNotFoundException.cs",
+              "RelativeToolTip": "ClientManagementAPI\\Exceptions\\ClientNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T18:32:52.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\o.fomenko\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ClientManagementAPI\\ClientManagementAPI\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "ClientManagementAPI\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\o.fomenko\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ClientManagementAPI\\ClientManagementAPI\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "ClientManagementAPI\\Controllers\\ClientsController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAcwGQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T18:27:35.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\o.fomenko\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ClientManagementAPI\\ClientManagementAPI\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "ClientManagementAPI\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\o.fomenko\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ClientManagementAPI\\ClientManagementAPI\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "ClientManagementAPI\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T18:18:38.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientsService.cs",
+              "DocumentMoniker": "C:\\Users\\o.fomenko\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ClientManagementAPI\\ClientManagementAPI\\Services\\ClientsService.cs",
+              "RelativeDocumentMoniker": "ClientManagementAPI\\Services\\ClientsService.cs",
+              "ToolTip": "C:\\Users\\o.fomenko\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ClientManagementAPI\\ClientManagementAPI\\Services\\ClientsService.cs",
+              "RelativeToolTip": "ClientManagementAPI\\Services\\ClientsService.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwFAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T18:05:04.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\o.fomenko\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ClientManagementAPI\\ClientManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ClientManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\o.fomenko\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ClientManagementAPI\\ClientManagementAPI\\Program.cs",
+              "RelativeToolTip": "ClientManagementAPI\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T16:50:43.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

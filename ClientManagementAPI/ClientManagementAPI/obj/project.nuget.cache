@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H2qrJt0K+z4=",
+  "dgSpecHash": "6UC28phG+pA=",
   "success": true,
-  "projectFilePath": "D:\\Work\\TMP\\ItemsApi\\ClientManagementAPI\\ClientManagementAPI\\ClientManagementAPI.csproj",
+  "projectFilePath": "D:\\Work\\TMP\\ItemsApi\\STEP_ASPNET\\ClientManagementAPI\\ClientManagementAPI\\ClientManagementAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alera\\.nuget\\packages\\automapper\\17.0.0\\automapper.17.0.0.nupkg.sha512",
     "C:\\Users\\alera\\.nuget\\packages\\azure.core\\1.41.0\\azure.core.1.41.0.nupkg.sha512",
